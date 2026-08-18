@@ -1,4 +1,4 @@
-#profile-title: 🏴black vpn
+#profile-title: black vpn🏴
 vless://c660d386-d9ee-4e91-9414-3939c8d6b9e6@0.0.0.0:443?encryption=none&security=reality&sni=api.google.maps&pbk=80161400d3288b16&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BARussia%20%7C%20%20sin%20%3D%20%20api.google.maps
 vless://c660d386-d9ee-4e91-9414-3939c8d6b9e6@0.0.0.0:443?encryption=none&security=reality&sni=vk.ru&pbk=80161400d3288b16&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%20sin%20%3D%20%20vk.ru
 vless://c660d386-d9ee-4e91-9414-3939c8d6b9e6@api.orga95.ru:443?encryption=none&security=reality&sni=google.com&pbk=80161400d3288b16&type=tcp&headerType=none#auto-server
