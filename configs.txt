@@ -1,8 +1,11 @@
 # profile-title: 🏳Белые списки
 # profile-update-interval: 1
-# Количество: 150
-# RU: это бесплатный впн для happ
-# EN: the free vpn for happ
 
 vless://6844a27a-95de-4b18-98a2-3f4c2907bca9@api.orga95.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=s3.t2.ru&fp=randomized&pbk=KFiNR5m-IihGzntLi03w2O99ojrHNsknv8H5hcx74GE&sid=3f7b1e5a9c2d8f46&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.248.221.27:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D16a89ef%3A154955#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%7C%20%5BBL%5D
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%7C%20%5BBL%5D
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Lijia%20%7C%20%5BBL%5D
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:9080?sni=grape-honk.yyuyy.com#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Lijia%20%7C%20%5BBL%5D
+hysteria2://8e85752d-c04f-427d-9d70-b10d144c8492@185.155.222.61:443?sni=ee.convert-cloud.guru#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+hysteria2://5ca83936-136d-4314-8453-4ba10a86cf60@31.76.70.109:8443/?sni=quic.tyr-agentstvo.tech#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
