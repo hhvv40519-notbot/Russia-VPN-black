@@ -3,5 +3,6 @@
 # Количество: 150
 # RU: это бесплатный впн для happ
 # EN: the free vpn for happ
+
 vless://6844a27a-95de-4b18-98a2-3f4c2907bca9@api.orga95.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=s3.t2.ru&fp=randomized&pbk=KFiNR5m-IihGzntLi03w2O99ojrHNsknv8H5hcx74GE&sid=3f7b1e5a9c2d8f46&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
